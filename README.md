@@ -17,6 +17,8 @@ Este projeto tem como objetivo desenvolver uma solução baseada em dados para i
 O código completo, incluindo a geração dos dados, análise exploratória e modelagem, está disponível para execução online através do Google Colab. Não é necessária instalação local.
 
 Link direto: [Acessar Notebook no Google Colab](https://colab.research.google.com/drive/1ANJADZQgE3wiwD92rr7N5bnHmp9VRibJ?usp=sharing)
+
+
 📋 Estrutura do Projeto
 
 O desenvolvimento seguiu o fluxo padrão de Mineração de Dados (KDD/CRISP-DM), atendendo aos requisitos da disciplina:
